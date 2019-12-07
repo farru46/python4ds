@@ -1,0 +1,3 @@
+conda create -n test_env python=3.6
+conda activate test 
+conda deactivate
